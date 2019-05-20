@@ -1,3 +1,3 @@
 # mercuryapp.io
-This is the official MercuryApp.io GitHub page to report any issues or 
-feature requests for the PWA version of https://mercuryapp.io/
+This is the official MercuryApp.io GitHub page to report any issues or
+submit feature requests for the beta version of MercuryApp.io
